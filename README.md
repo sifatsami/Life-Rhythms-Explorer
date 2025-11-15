@@ -76,7 +76,7 @@ The four main views are:
 
 Shows how activities are distributed across the 24 hours for a selected country and year.
 
-![Daily Activity Rhythm](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Daily%20Activity%20Rhythm.png?raw=true)
+![Daily Rhythm Heatmap](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Daily%20Activity%20Rhythm.png?raw=true)
 
 ---
 
@@ -84,7 +84,7 @@ Shows how activities are distributed across the 24 hours for a selected country 
 
 Compares a selected activity across all countries in a selected year.
 
-![Activity Comparison](screenshots/line_comparison.png)
+![Activity Comparison](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Country%20Comparison.png?raw=true)
 
 ---
 
