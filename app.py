@@ -188,6 +188,5 @@ during each 10-minute interval.
 """)
 
 
-## cd "/Users/admin/Desktop/Projects/Visualization final project"      eita location basically,
+## cd "/Users/admin/Desktop/Projects/Visualization final project"
 ## streamlit run app.py
-## terminal e ei 2 line paste korle open hoibo dashboard
