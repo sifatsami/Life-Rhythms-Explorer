@@ -100,7 +100,7 @@ Shows how a specific country’s activity changed over time.
 
 Displays which activities dominate a given hour across countries.
 
-![Composition View](screenshots/composition.png)
+![Composition View](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Activity%20Composition%20at%20Selected%20Hour.png?raw=true)
 
 ---
 
