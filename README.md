@@ -23,30 +23,6 @@ The result is an interactive, coordinated visualization system that allows users
 
 ---
 
-## 📦 Repository Structure
-
-```
-.
-├── app.py                     # Main Streamlit dashboard
-├── README.md                  # Project description (this file)
-├── requirements.txt           # Dependencies
-├── data/
-│   └── life_rhythms_clean.csv
-├── src/
-│   └── preprocess.py          # Cleaning and transformation script
-├── screenshots/
-│   ├── heatmap.png
-│   ├── line_comparison.png
-│   ├── then_vs_now.png
-│   └── composition.png
-├── .streamlit/
-│   └── config.toml            # Custom sage-green theme
-└── report/
-    └── report.pdf             # Final 3-page course report
-```
-
----
-
 ## 🧠 Dataset
 
 **Source:**  
@@ -88,7 +64,7 @@ The cleaned dataset used by the app:
 
 ## 📊 Visualization System
 
-The dashboard is implemented in **Streamlit** with **Altair** and uses a coordinated multiple view layout.  
+The dashboard is implemented in **Streamlit** with **Altair** and uses a coordinated multiple-view layout.  
 Users interact with filters (country, year, activity, hour) via a sidebar.
 
 The four main views are:
