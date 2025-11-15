@@ -92,7 +92,7 @@ Compares a selected activity across all countries in a selected year.
 
 Shows how a specific country’s activity changed over time.
 
-![Then vs Now](screenshots/then_vs_now.png)
+![Then vs Now](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Change%20Over%20Time.png?raw=true)
 
 ---
 
