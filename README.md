@@ -127,23 +127,6 @@ Displays which activities dominate a given hour across countries.
 
 ---
 
-## 🎨 Custom UI Theme
-
-Defined in `.streamlit/config.toml`:
-
-```
-[theme]
-primaryColor="#74A57F"
-backgroundColor="#F7FAF7"
-secondaryBackgroundColor="#E9F3EA"
-textColor="#2F3E46"
-font="sans serif"
-```
-
-This provides a calm sage-green aesthetic without affecting chart color schemes.
-
----
-
 ## 🚀 Running the App
 
 ### Install dependencies:
