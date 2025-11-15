@@ -20,7 +20,7 @@ This project is driven by four guiding questions:
 4. **When are countries synchronized or divergent in their behavior?**
 
 The result is an interactive, coordinated visualization system that allows users to explore Europe's daily routines.
-!(screenshots/heatmap.png)
+![alt text](https://github.com/sifatsami/Life-Rhythms-Explorer/blob/main/Intro.png?raw=true)
 
 ---
 
