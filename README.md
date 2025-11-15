@@ -3,7 +3,6 @@
 **Interactive visualization of daily activity patterns across Europe**  
 Built with **Streamlit** and **Altair**, using 10-minute interval time-use survey data from Eurostat.
 
-This project was developed as the final assignment for a university Visualization course.  
 It transforms complex temporal activity data into an intuitive dashboard for comparing countries, exploring cultural routines, and analyzing changes over time.
 
 ---
