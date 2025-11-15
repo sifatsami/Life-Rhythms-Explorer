@@ -108,10 +108,6 @@ Displays which activities dominate a given hour across countries.
 
 ### Install dependencies:
 
-```
-pip install -r requirements.txt
-```
-
 Minimal requirements:
 
 ```
